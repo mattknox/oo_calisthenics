@@ -23,4 +23,4 @@ He suggests writing a 1000-line program with the constraints listed below. These
 Taken together, these rules impose a restrictive encapsulation on developers and force thinking along OO lines. I assert than anyone writing a 1000-line project without violating these rules will rapidly become much better at OO. They can then, if they want, relax the restrictions somewhat. But as Bay points out, there's no reason to do so. His team has just finished a 100,000-line project within these strictures.
 
 
-My conclusion: This might well be better than procedural programming, but I dunno.  I found that the code I had to write to deal with this tiny problem rapidly ballooned into hundreds of lines, and while every line was really easy to read, the program logic as a whole was not.  
+My conclusion: This might well be better than procedural programming, but I dunno.  I found that the code I had to write to deal with this tiny problem rapidly ballooned into hundreds of lines, and while every line was really easy to read, the program logic as a whole was not.  Still, I think it is an excellent exercise to try.  
